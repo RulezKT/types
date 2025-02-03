@@ -9,7 +9,7 @@ const (
 	VENUS   = 4
 	MARS    = 5
 	CERES   = 6
-	JUPYTER = 7
+	JUPITER = 7
 	SATURN  = 8
 	CHIRON  = 9
 	URANUS  = 10
