@@ -1,5 +1,25 @@
 package types
 
+const (
+
+	EARTH   = 0
+	MOON    = 1
+	SUN     = 2
+	MERCURY = 3
+	VENUS   = 4
+	MARS    = 5
+	CERES   = 6
+	JUPYTER = 7
+	SATURN  = 8
+	CHIRON  = 9
+	URANUS  = 10
+	NEPTUNE = 11
+	PLUTO   = 12
+	NNODE   = 13
+	SNODE   = 14
+	
+)
+
 type Position struct {
 	X float64
 	Y float64
